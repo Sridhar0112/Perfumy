@@ -1,0 +1,126 @@
+* {
+  padding: 0p;
+  margin: 0;
+}
+#fullbar {
+  padding: 5px;
+  margin-right: -5px;
+}
+#home {
+  height: 100px;
+  background-color: #000000; /* Charcoal */
+  color: gray; /* Gold */
+  padding: 5px;
+  margin-left: 690px;
+  cursor: pointer;
+}
+#about {
+  height: 100px;
+  background-color: #000000; /* Charcoal */
+  color: gray; /* Gold */
+  padding: 5px;
+  cursor: pointer;
+}
+#contact {
+  height: 100px;
+  background-color: #000000; /* Charcoal */
+  color: gray; /* Gold */
+  padding: 5px;
+  cursor: pointer;
+}
+#products {
+  background-color: #000000; /* Charcoal */
+  cursor: pointer;
+  color: gray; /* Gold */
+  padding: 5px;
+}
+nav {
+  background-color: #000000; /* Dark blue-gray */
+  color: #ecf0f1; /* Light gray */
+  margin-left: -8px;
+  margin-top: -8px;
+  padding: 25px;
+}
+h1 {
+  display: inline;
+  padding-left: 50px;
+}
+ul {
+  display: inline;
+}
+#home:hover,
+#products:hover,
+#about:hover,
+#contact:hover {
+  color: #e74c3c; /* Red */
+}
+#search {
+  width: 50%;
+  height: 25px;
+  margin-top: 50px;
+  margin-left: 250px;
+}
+.firstbox {
+  border-width: 2px;
+  border-color: #e74c3c; /* Red */
+  border-style: solid;
+  display: inline-block;
+  width: 220px;
+}
+.secondbox {
+  border-width: 2px;
+  border-color: #e74c3c; /* Red */
+  border-style: solid;
+  display: inline-block;
+  width: 220px;
+  margin-left: 10px;
+}
+.thirdbox {
+  border-width: 2px;
+  border-color: #e74c3c; /* Red */
+  border-style: solid;
+  display: inline-block;
+  width: 220px;
+  margin-left: 10px;
+}
+.wholebox {
+  margin-top: 100px;
+  margin-left: 220px;
+}
+.firstbox:hover,
+.secondbox:hover,
+.thirdbox:hover {
+  background-color: #34495e; /* Slate gray */
+  color: #ffffff; /* White */
+}
+.about {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+}
+#abouth1 {
+  color: #d35400;
+  margin-left: -100px; /* Orange */
+}
+#aboutp {
+  margin-top: 10px;
+  text-align: justify;
+}
+#contact1 {
+  height: 120px;
+  background-color: #000000;
+}
+#contact_h1,
+#contact_h2,
+#contact_h3 {
+  color: azure;
+  text-align: center;
+  margin-left: -59px;
+}
+#contact_h4 {
+  color: azure;
+  margin-top: 10px;
+  font-size: 70%;
+  padding: 10px;
+  margin-right: -7px;
+}
